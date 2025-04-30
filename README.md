@@ -6,7 +6,7 @@
 
 <h1 align="left"> Samba: Simple Hybrid State Space Models for Efficient Unlimited Context Language Modeling</h1>
 
-[![arXiv](https://img.shields.io/badge/Paper-2406.07522-blue.svg?style=flat-square)](https://arxiv.org/abs/2406.07522)
+[![arXiv](https://img.shields.io/badge/Paper-2406.07522-green.svg?style=flat-square)](https://arxiv.org/abs/2406.07522) [![arXiv](https://img.shields.io/badge/slides-blue.svg?style=flat-square)](https://docs.google.com/presentation/d/1SUGKM_sTKgb-wXSYvalWtD2O2qTKnYuMzid669GfJbU/edit#slide=id.g274b8c2f536_0_0) [![arXiv](https://img.shields.io/badge/poster-orange.svg?style=flat-square)](https://drive.google.com/file/d/1bfK6aSH4O7G_ndIH835KfdQMCcqw8txJ/view) 
 
 
 Samba is a simple yet powerful hybrid model with an **unlimited** context length. Its architecture is frustratingly simple: 
