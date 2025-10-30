@@ -44,7 +44,7 @@ Please follow the [`Dockerfile`](Dockerfile) to setup the environment. The data 
 
 ### Data Preparation
 
-Download the Slimpajama dataset to your chosen directory.
+Download the Slimpajama dataset to your chosen directory. We also provide the pre-tokenized data [here](https://huggingface.co/datasets/jsun/Prolong_64K_v2_Llama2_Tokenizer#slimpajama_llama2_tokenizer).
 ```bash
 cd /path/to/dataset
 git lfs install
